@@ -1,1 +1,0 @@
-html,body{background:#0f1720;height:100%;margin:0}#app{justify-content:center;align-items:center;height:100%;display:flex}#app canvas{width:min(100vw, calc(100vh * var(--ratio)))!important;height:auto!important}
