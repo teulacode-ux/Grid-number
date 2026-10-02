@@ -1,0 +1,28 @@
+{
+  "id": "ocean",
+  "name": "Ocean",
+  "background": "background.png",
+  "board": "board.png",
+  "cell": "cell.png",
+  "selection": "select.png",
+  "selectionSlice": 16,
+  "fxClear": "fx-clear.png",
+  "sounds": {
+    "score": "score.mp3",
+    "cancel": "cancel.mp3",
+    "music": "music.mp3"
+  },
+  "font": "OceanDigits",
+  "fontFile": "ocean.ttf",
+  "colors": {
+    "background": "#0b3b5c",
+    "board": "#0a2a44",
+    "cell": "#1f7aa8",
+    "digit": "#ffffff",
+    "digitStroke": "#0a2a44",
+    "select": "#7dd3fc",
+    "fx": "#bfe9ff"
+  },
+  "idle": { "type": "none", "amplitude": 3, "duration": 1.6 },
+  "clearFx": { "count": 6, "distance": 48, "duration": 0.6 }
+}
